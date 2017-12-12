@@ -1,0 +1,20 @@
+[
+  {
+    "repository": "K3NG2541/android_device_lenovo_P1m",
+    "target_path": "device/lenovo/P1m",
+    "revision": "aospa",
+    "remote": "github"
+  },
+  {
+    "repository": "z3r0c00l-2k/android_vendor_lenovo_P1m",
+    "target_path": "vendor/lenovo/P1m",
+    "revision": "n",
+    "remote": "github"
+  },
+  {
+    "repository": "K3NG2541/android_kernel_lenovo_P1m",
+    "target_path": "kernel/lenovo/P1m",
+    "revision": "master",
+    "remote": "github"
+  }
+]
